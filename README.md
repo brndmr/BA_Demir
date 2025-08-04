@@ -1,4 +1,4 @@
-# BA_Demir_2023
+# Bachelorarbeit Baran Demir 2023
 Ergebnisse als Videos:
 
 Quadrupedal FSM: https://youtu.be/gdV9fChHyXw
