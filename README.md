@@ -1,7 +1,6 @@
 # Bachelorarbeit Baran Demir 2023
-**Results of trained policy neural networks as videos:**
 
-Control neural networks working in conjunction as a finite state machine:
+**Control neural networks working in conjunction as a finite state machine:**
 Quadrupedal FSM: https://youtu.be/gdV9fChHyXw
 
 **Control modules in isolation:**
